@@ -163,9 +163,9 @@
   <string name="MegaDeleteInfo">Ви втратите всі повідомлення в цій групі.</string>
   <string name="MegaAdminsInfo">Ви можете додати адміністраторів для допомоги в керуванні групою. Торкніться й утримуйте для вилучення їх.</string>
   <string name="MegaDeleteAlert">Заждіть! Видалення цієї групи вилучить всіх учасників і всі повідомлення будуть втрачені. Все одно видалити групу?</string>
-  <string name="ActionCreateMega">Група створена</string>
+  <string name="ActionCreateMega">Групу створено</string>
   <string name="MegaAddedBy">un1 додав вас до цієї групи</string>
-  <string name="MegaLeaveAlert">Ви впевнені, що хочете покинути групу?</string>
+  <string name="MegaLeaveAlert">Ви дійсно хочете покинути групу?</string>
   <string name="GroupUserCantAdd">Вибачте, ви не можете додати цього користувача до груп.</string>
   <string name="GroupUserAddLimit">Шкода, але ця група заповнена.</string>
   <string name="GroupUserLeftError">На жаль, цей користувач вирішив покинути цю групу, тому ви не можете запросити його знову тут.</string>
@@ -178,7 +178,7 @@
   <string name="ActionPinnedFile">un1 прикріпив/ла файл</string>
   <string name="ActionPinnedSticker">un1 прикріпив/ла наліпку</string>
   <string name="ActionPinnedVoice">un1 прикріпив/ла голосове повідомлення</string>
-  <string name="ActionPinnedRound">un1 прикріпив відео повідомлення</string>
+  <string name="ActionPinnedRound">Користувач un1 прикріпив відеоповідомлення</string>
   <string name="ActionPinnedContact">un1 прикріпив/ла контакт</string>
   <string name="ActionPinnedGame">un1 прикріпив %1$s</string>
   <string name="ActionPinnedGeo">un1 прикріпив/ла карту</string>
@@ -245,7 +245,7 @@
   <string name="ActionCreateChannel">Канал створено</string>
   <string name="ActionChannelChangedPhoto">Фото каналу змінено</string>
   <string name="ActionChannelRemovedPhoto">Фото каналу вилучено</string>
-  <string name="ActionChannelChangedTitle">Назва каналу змінена на un2</string>
+  <string name="ActionChannelChangedTitle">Назва каналу змінено на un2</string>
   <string name="ChangePublicLimitReached">Вибачте, ви зарезервували забагато публічних імен користувачів. Ви можете відкликати посилання з однієї зі своїх старих груп або каналів або створити приватний об\'єкт.</string>
   <string name="ChannelCreator">Власник</string>
   <string name="ChannelEditor">Адміністратор</string>
@@ -322,6 +322,7 @@
   <string name="EditAdminRemoveAdmin">Звільнити Адміністратора</string>
   <string name="EditAdminBanUsers">Заборонити Користувачів</string>
   <string name="EditAdminAddUsers">Додати Користувачів</string>
+  <string name="EditAdminAddUsersViaLink">Запросити користувачів через посилання</string>
   <string name="EditAdminPinMessages">Закріпити Повідомлення</string>
   <string name="EditAdminPromotedBy">Додано %1$s</string>
   <string name="EditAdminCantEdit">Ви не можете редагувати права цього адміністратора.</string>
