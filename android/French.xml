@@ -503,7 +503,7 @@
   <string name="ApplyThemeFile">Appliquer le thème</string>
   <string name="UnsupportedAttachment">Type de pièce-jointe inconnu</string>
   <string name="SetTimer">Temps avant auto-destruction</string>
-  <string name="ServiceNotifications">Service de notifications</string>
+  <string name="ServiceNotifications">Notifications de service</string>
   <string name="GettingLinkInfo">Obtention d\'infos sur le lien…</string>
   <string name="OpenInBrowser">OUVRIR DANS ...</string>
   <string name="OpenInExternalApp">Ouvrir dans ...</string>
@@ -886,7 +886,7 @@
   <string name="IncorrectLocalization">Fichier de traduction incorrect</string>
   <string name="Enabled">Activé</string>
   <string name="Disabled">Désactivé</string>
-  <string name="NotificationsService">Service Garder-en-vie</string>
+  <string name="NotificationsService">Service Keep-Alive</string>
   <string name="NotificationsServiceInfo">Relancer l\'application lorsqu\'elle est arrêtée par un utilisateur ou par le système. Cela garantit que l\'application puisse afficher les notifications.</string>
   <string name="NotificationsServiceConnection">Connexion en arrière-plan</string>
   <string name="NotificationsServiceConnectionInfo">Utilise une connexion en arrière-plan vers Telegram consommant peu d\'énergie pour recevoir les notifications. Activez pour des notifications fiables.</string>

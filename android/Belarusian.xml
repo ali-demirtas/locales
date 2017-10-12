@@ -81,6 +81,7 @@
   <string name="PaymentCheckoutPhoneNumber">Нумар тэлефону</string>
   <string name="PaymentCheckoutEmail">Кантактны адрас</string>
   <string name="PaymentCheckoutShippingMethod">Спосаб дастаўкі</string>
+  <string name="PaymentReceipt">Разлікоўка</string>
   <string name="PaymentConfirmationNewCard">Абярыце іншую картку</string>
   <string name="PaymentConfirmationMessage">Вашая картка %1$s была захавана. Каб скарыстацца ёю, калі ласка, увядзіце ваш пароль двухкрокавай верыфікацыі.</string>
   <string name="PaymentPrecheckoutFailed">Выбачайце, але плацеж быў скасаваны ботам.</string>
