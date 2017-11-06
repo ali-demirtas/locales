@@ -81,7 +81,7 @@
   <string name="PaymentCheckoutProvider">Fornidor de\'l servisio de pagamento</string>
   <string name="PaymentCheckoutName">Nome</string>
   <string name="PaymentCheckoutPhoneNumber">Nùmaro de tełèfono</string>
-  <string name="PaymentCheckoutEmail">Ndariso de\\'l contato</string>
+  <string name="PaymentCheckoutEmail">Ndariso de\'l contato</string>
   <string name="PaymentCheckoutShippingMethod">Tipo de spedision</string>
   <string name="PaymentReceipt">Resevuda</string>
   <string name="PaymentConfirmationNewCard">Sernisi na carta difarente</string>
@@ -187,8 +187,8 @@
   <string name="ActionPinnedGeo">un1 L ga picà insima na pozision</string>
   <string name="ActionPinnedGif">un1 L ga picà insima na GIFa</string>
   <string name="ActionPinnedMusic">un1 L ga picà insima un audio</string>
-  <string name="ActionMigrateFromGroup">\'Sto grupo el ze sta ajornà in supargrupo</string>
-  <string name="ActionMigrateFromGroupNotify">%1$s L ze sta ajornà in supargrupo</string>
+  <string name="ActionMigrateFromGroup">\'Sto grupo el ze sta mejorà in supargrupo</string>
+  <string name="ActionMigrateFromGroupNotify">%1$s L ze sta mejorà in supargrupo</string>
   <string name="NoBlockedGroup">I utenti blocài i vien cavài via da\'l grupo e i połe tornarghe rento soło se invitài da un aministrador. El link de invito no\'l funsiona mìa par łuri.</string>
   <string name="NoBlockedChannel">I utenti blocài i vien cavài via da\'l canałe e i połe tornarghe rento soło se invitài da un aministrador. El link de invito no\'l funsiona mìa par łuri.</string>
   <string name="NewChannel">Canałe novo</string>
@@ -676,7 +676,7 @@
   <string name="NewMessageTitle">Mesajo novo</string>
   <!--group create view-->
   <string name="SendMessageTo">Zonta parsone...</string>
-  <string name="SoftUserLimitAlert">A te podarè zontar pì utenti dopo che A te gavarè fenìo de crear el grupo e A te ło gavarè convertìo inte un supargrupo.</string>
+  <string name="SoftUserLimitAlert">A te podarè zontar pì utenti dopo che A te gavarè fenìo de crear el grupo e A te ło gavarè convartìo inte un supargrupo.</string>
   <string name="EnterGroupNamePlaceholder">Insarisi el nome de\'l grupo</string>
   <string name="GroupName">Nome de\'l grupo</string>
   <string name="MembersCount">sełesionà %1$d de %2$d</string>
@@ -711,13 +711,13 @@
   <string name="Notifications">Notìfeghe</string>
   <string name="KickFromSupergroup">Restrisiona utente</string>
   <string name="KickFromGroup">Cava via da\'l grupo</string>
-  <string name="UpgradeGroup">Ajorna in supargrupo</string>
+  <string name="UpgradeGroup">Mejora in supargrupo</string>
   <string name="ConvertGroup">Converti in supargrupo</string>
   <string name="ConvertGroupMenu">Converti in supargrupo</string>
   <string name="ConvertGroupAlertWarning">Avertensa</string>
   <string name="ConvertGroupAlert">Da \'sta asion A no se połe mìa pì tornar indrìo. A no ze mìa posìbiłe trasformar un supargrupo inte un grupo normałe.</string>
-  <string name="ConvertGroupInfo"><![CDATA[<b>]]>Łìmite màsemo menbri.<![CDATA[</b>]]>\\n\\nPar ndarghe sora a\'l łìmite e ver funsion in pì, ajorna a supargrupo:\\n\\n• I supargrupi i połe tenjer fin a %1$s menbri\\n• I menbri novi i połe védar tuta ła cronołozìa de i mesaji\\n• I mesaji ełimenài i desconparise par tuti i menbri\\n• I aministradori i połe picar insima i mesaji inportanti\\n• El creador el połe inpostar un link pùblego par el grupo</string>
-  <string name="ConvertGroupInfo2"><![CDATA[<b>]]>Inte i supargrupi:<![CDATA[</b>]]>\\n\\n• I menbri novi i połe védar tuta ła cronołozìa de i mesaji\\n• I mesaji ełimenài i desconparise par tuti i menbri\\n• I aministradori i połe picar insima i mesaji inportanti\\n• El creador el połe inpostar un link pùblego par el grupo</string>
+  <string name="ConvertGroupInfo"><![CDATA[<b>]]>Łìmite màsemo menbri.<![CDATA[</b>]]>\\n\\nPar pasar via el łìmite e ver funsion in pì, mejora a supargrupo:\\n\\n• I supargrupi i połe tenjer fin a %1$s menbri\\n• I menbri novi i połe védar tuta ła cronołozìa de i mesaji\\n• I mesaji i venjarà ełimenài par tuti i menbri\\n• I aministradori i połe picar insima i mesaji inportanti\\n• El creador el połe inpostar un link pùblego par el grupo</string>
+  <string name="ConvertGroupInfo2"><![CDATA[<b>]]>Inte i supargrupi:<![CDATA[</b>]]>\\n\\n• I menbri novi i połe védar tuta ła cronołozìa de i mesaji\\n• I mesaji i venjarà ełimenài par tuti i menbri\\n• I aministradori i połe picar insima i mesaji inportanti\\n• El creador el połe inpostar un link pùblego par el grupo</string>
   <string name="ConvertGroupInfo3"><![CDATA[<b>]]>Sta tento:<![CDATA[</b>]]> \'sta asion no ła połe mìa èsar anułà.</string>
   <!--contact info view-->
   <string name="ShareContact">Sparpanja</string>
