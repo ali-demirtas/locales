@@ -1073,6 +1073,7 @@ nУзнать больше на telegram.org</string>
   <string name="UsernameHelp">Вы можете задать себе уникальное имя пользователя – тогда другие люди смогут находить вас по нему и связываться с вами, **не зная номера** вашего телефона.\n\nРазрешены **цифры**, символы **a-z** и подчёркивания. Минимальная длина: **5** символов.</string>
   <string name="UsernameHelpLink">Эта ссылка откроет чат с вами в Telegram:\n%1$s</string>
   <string name="UsernamePlaceholder">Ваше имя пользователя</string>
+  <string name="Users">%1$d человек</string>
   <string name="Users_one">%1$d пользователь</string>
   <string name="Users_two">%1$d пользователя</string>
   <string name="Users_few">%1$d пользователей</string>
@@ -1086,6 +1087,7 @@ nУзнать больше на telegram.org</string>
   <string name="SmartNotificationsInfo">%1$d / %2$s</string>
   <string name="SmartNotificationsAlert">Частота уведомлений</string>
   <string name="SmartNotificationsDetail">%1$s в течение %2$s</string>
+  <string name="Times">%1$d раз</string>
   <string name="Times_one">%1$d раз</string>
   <string name="Times_two">%1$d раза</string>
   <string name="Times_few">%1$d раз</string>
@@ -1119,6 +1121,7 @@ nУзнать больше на telegram.org</string>
   <string name="ImportContacts">Импорт контактов</string>
   <string name="EnterNewFirstPasscode">Введите код доступа</string>
   <string name="PasscodePassword">Пароль</string>
+  <string name="Years">%1$d г.</string>
   <string name="Years_one">%1$d год</string>
   <string name="Years_two">%1$d года</string>
   <string name="Years_few">%1$d лет</string>
@@ -1136,12 +1139,14 @@ nУзнать больше на telegram.org</string>
   <string name="Long">Долгий</string>
   <string name="OnlyIfSilent">Только в беззвучном</string>
   <string name="RepeatDisabled">Выкл</string>
+  <string name="Minutes">%1$d мин.</string>
   <string name="Minutes_one">%1$d минута</string>
   <string name="Minutes_two">%1$d минуты</string>
   <string name="Minutes_few">%1$d мин.</string>
   <string name="Minutes_many">%1$d мин.</string>
   <string name="Minutes_other">%1$d мин.</string>
   <string name="Minutes_zero">%1$d мин.</string>
+  <string name="Hours">%1$d ч.</string>
   <string name="Hours_one">%1$d час</string>
   <string name="Hours_two">%1$d часа</string>
   <string name="Hours_few">%1$d ч.</string>
@@ -1175,12 +1180,14 @@ nУзнать больше на telegram.org</string>
   <string name="AlwaysAllow">Всегда разрешать</string>
   <string name="LocalDatabaseClear">Очистить кэш сообщений?</string>
   <string name="CacheClear">Очистить</string>
+  <string name="Days">%1$d дн.</string>
   <string name="Days_one">%1$d день</string>
   <string name="Days_two">%1$d дня</string>
   <string name="Days_few">%1$d дн.</string>
   <string name="Days_many">%1$d дн.</string>
   <string name="Days_other">%1$d дн.</string>
   <string name="Days_zero">%1$d дн.</string>
+  <string name="Weeks">%1$d нед.</string>
   <string name="Weeks_one">%1$d неделя</string>
   <string name="Weeks_two">%1$d недели</string>
   <string name="Weeks_few">%1$d недель</string>
@@ -1392,6 +1399,7 @@ nУзнать больше на telegram.org</string>
   <string name="PaymentPrecheckoutFailed">К сожалению, платёж отменён ботом.</string>
   <string name="PaymentNoShippingMethod">К сожалению, доставка на этот адрес невозможна.</string>
   <string name="ShareYouLocationUnableManually">Выбрать вручную</string>
+  <string name="Points">%1$d</string>
   <string name="Points_one">%1$d очко</string>
   <string name="Points_two">%1$d очка</string>
   <string name="Points_few">%1$d очков</string>
@@ -1684,6 +1692,7 @@ nУзнать больше на telegram.org</string>
   <string name="FavoriteStickers">Избранные стикеры</string>
   <string name="LiveLocations">МЕСТОПОЛОЖЕНИЯ</string>
   <string name="ShowInChat">Показать в чате</string>
+  <string name="NotificationActionPinnedGeoLive">%1$s прикрепил(а) трансляцию местоположения в группе %2$s</string>
   <string name="AttachDocument">Файл</string>
   <string name="GpsDisabledAlert">Похоже, у вас отключён GPS. Включите его, чтобы использовать функции геопозиции.</string>
   <string name="PaymentPassword">Пароль и e-mail</string>
