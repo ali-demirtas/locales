@@ -986,7 +986,7 @@
   <string name="SecurityTitle">Seguresa</string>
   <string name="SessionsTitle">Sesion ative</string>
   <string name="SessionsInfo">Controła łe to sesion inte cheł\'altri dispozitivi.</string>
-  <string name="Months">%1$d meze</string>
+  <string name="Months">%1$d mizi</string>
   <string name="Months_one">%1$d meze</string>
   <string name="Months_two">%1$d mizi</string>
   <string name="Months_few">%1$d mizi</string>
@@ -1039,7 +1039,7 @@ Itim A te podarè senpre tornar indrìo a\'l tema predefenìo de Telegram.</stri
   <string name="TelegramFaq">Dimande Sòłite</string>
   <string name="PrivacyPolicy">Połìtega so ła privacy</string>
   <string name="TelegramVersion">Telegram par Android %1$s</string>
-  <string name="KeepMedia">Tien media</string>
+  <string name="KeepMedia">Tien i media par</string>
   <string name="ClearMediaCache">Neta cache</string>
   <string name="CalculatingSize">Calcołando...</string>
   <string name="LocalDatabase">Database łocałe</string>
@@ -1191,7 +1191,7 @@ Itim A te podarè senpre tornar indrìo a\'l tema predefenìo de Telegram.</stri
   <string name="Weeks_many">%1$d setimane</string>
   <string name="Weeks_other">%1$d setimane</string>
   <string name="Weeks_zero">%1$d setimane</string>
-  <string name="KeepMediaForever">Par senpre</string>
+  <string name="KeepMediaForever">senpre</string>
   <string name="LocalVideoCache">Video</string>
   <string name="LocalDocumentCache">Documenti</string>
   <string name="LocalAudioCache">Mesaji vocałi/video</string>
@@ -1703,6 +1703,7 @@ Itim A te podarè senpre tornar indrìo a\'l tema predefenìo de Telegram.</stri
   <string name="ForwardedMessageCount_many">%1$d mesaji voltài</string>
   <string name="ForwardedMessageCount_other">%1$d mesaji voltài</string>
   <string name="ForwardedMessageCount_zero">%1$d mesaji voltài</string>
+  <string name="ContactsPermissionAlert">Par conétarte fasilmente co tuti i to conosenti, parmétaghe a **Telegram** de ver aceso a i to contati.</string>
   <string name="PermissionNoAudioVideo">A Telegram A ghe serve l\'aceso a\'l to micròfono par parmétarte de rejistrar video.</string>
   <string name="ContactsPermissionAlertNotNow">MÌA DESO</string>
   <string name="ContactsPermissionAlertContinue">CONTINUA</string>
@@ -1730,5 +1731,9 @@ Itim A te podarè senpre tornar indrìo a\'l tema predefenìo de Telegram.</stri
   <string name="KickFromBroadcast">Cava via da ła łista de trazmision</string>
   <string name="AddRecipient">Zonta resevente</string>
   <string name="Invisible">invizìbiłe</string>
+  <string name="LowDiskSpaceMessage">El to dispozitivo el ze drio fenir el spasio. Par łibaràrghine na scianta A te połi inpostar che Telegram el salve so ła cache soło i media resenti.</string>
+  <string name="LowDiskSpaceTitle">Atension</string>
+  <string name="LowDiskSpaceTitle2">Tien i media par</string>
+  <string name="LowDiskSpaceNeverRemove">Tien tuto</string>
   <string name="ErrorOccurred">A se ga verifegà un eror.</string>
 </resources>

@@ -1494,6 +1494,8 @@ Smazat a zastavit</string>
   <string name="AddToFavorites">Přidat do oblíbených</string>
   <string name="ShowInChat">Zobrazit v konverzaci</string>
   <string name="AttachDocument">Soubor</string>
+  <string name="PaymentPassword">Heslo &amp; E-Mail</string>
+  <string name="PaymentPasswordTitle">Heslo</string>
   <string name="PermissionNoAudioVideo">Telegram potřebuje přístup k mikrofonu, abyste mohli nahrávat videa.</string>
   <string name="ContactsPermissionAlertNotNow">TEĎ NE</string>
   <string name="ContactsPermissionAlertContinue">POKRAČOVAT</string>
