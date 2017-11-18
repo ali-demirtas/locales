@@ -815,8 +815,8 @@
   <string name="AutomaticMediaDownload">Аўта-спампоўка медыяфайлаў</string>
   <string name="WhenUsingMobileData">Пры мабільным злучэнні</string>
   <string name="LocalPhotoCache">Выявы</string>
-  <string name="AudioAutodownload">Галасавыя паведамленні</string>
-  <string name="VideoMessagesAutodownload">Відэа паведамленні</string>
+  <string name="AudioAutodownload">Аўдыязапісы</string>
+  <string name="VideoMessagesAutodownload">Відэазапісы</string>
   <string name="LocalMusicCache">Музыка</string>
   <string name="LocalGifCache">Анімацыі</string>
   <string name="WhenConnectedOnWiFi">Пры падлучэнні праз Wi-Fi</string>
@@ -1484,7 +1484,7 @@
   <string name="NotificationMessageRound">%1$s даслаў(-ла) вам відэазапіс</string>
   <string name="NotificationMessageMap">%1$s даслаў вам месцазнаходжанне</string>
   <string name="NotificationMessageGif">%1$s даслаў вам анімацыю</string>
-  <string name="NotificationMessageDocument">%1$s даслаў вам файл</string>
+  <string name="NotificationMessageDocument">%1$s даслаў(-ла) вам файл</string>
   <string name="NotificationMessageVideo">%1$s даслаў вам відэа</string>
   <string name="NotificationMessageGame">%1$s запрасіў(-ла) вас у гульню %2$s</string>
   <string name="NotificationMessageAudio">%1$s даслаў вам аўдыязапіс</string>
@@ -1506,7 +1506,7 @@
   <string name="NotificationContactJoined">%1$s далучыўся(-лася) да Тэлеграма!</string>
   <string name="NotificationActionPinnedNoText">%1$s замацаваў(-ла) паведамленне ў суполцы %2$s</string>
   <string name="ActionPinnedNoText">un1 замацаваў(-ла) паведамленне</string>
-  <string name="NotificationMessageSticker">%1$s даслаў вам налепку</string>
+  <string name="NotificationMessageSticker">%1$s даслаў(-ла) вам налепку</string>
   <string name="NotificationActionPinnedSticker">%1$s замацаваў(-ла) налепку ў суполцы %2$s</string>
   <string name="NotificationMessageGroupSticker">%1$s даслаў налепку ў суполку %2$s</string>
   <string name="FileUploadLimit">Памер файла не можа перавышаць %1$s</string>
