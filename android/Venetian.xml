@@ -133,7 +133,7 @@
   <string name="NewChannel">Canałe novo</string>
   <string name="Updating">Ajornamento...</string>
   <string name="VoipDeclineCall">Refuda</string>
-  <string name="VoipAnswerCall">Respondi</string>
+  <string name="VoipAnswerCall">Ciapa</string>
   <string name="MegaLeaveAlert">Vutu davero ndar fora da\'l grupo?</string>
   <string name="GlobalSearch">RESERCA GLOBAŁE</string>
   <string name="SearchMessages">MESAJI</string>
@@ -225,9 +225,9 @@
   <string name="CallViaTelegram">Ciamada Telegram</string>
   <string name="VoipBusy">Łinea ocupà</string>
   <string name="CallMessageIncomingMissed">Ciamada perdesta</string>
-  <string name="CallMessageIncomingDeclined">Ciamada refudà</string>
-  <string name="CallMessageOutgoing">Ciamada in sortìa</string>
-  <string name="CallMessageOutgoingMissed">Ciamada anułà</string>
+  <string name="CallMessageIncomingDeclined">Ciamada refudada</string>
+  <string name="CallMessageOutgoing">Ciamada fazesta</string>
+  <string name="CallMessageOutgoingMissed">Ciamada anułada</string>
   <string name="CallMessageReportProblem">Vàłuta ła ciamada</string>
   <string name="VoipRateCallAlert">Vàłuta ła cuałidà de ła ciamada Telegram</string>
   <string name="CallReportHint">Che problema ghe zeło sta?</string>
@@ -395,7 +395,7 @@
   <string name="Seconds_zero">%1$d secundi</string>
   <string name="Done">Fato</string>
   <string name="Online">L ze in łinea</string>
-  <string name="CallMessageIncoming">Ciamada in entrada</string>
+  <string name="CallMessageIncoming">Ciamada ciapada</string>
   <string name="TypeMessage">Mesajo</string>
   <string name="ReturnToCall">TORNA A ŁA CIAMADA</string>
   <string name="NoMessages">Njancora njaun mesajo cuà...</string>
@@ -406,7 +406,7 @@
   <string name="ChatYourSelfDescription1">Volta cuà i mesaji par salvarli</string>
   <string name="ChatYourSelfDescription2">Manda media e file par archivarli</string>
   <string name="ChatYourSelfDescription3">Acedi a \'sta chat da calsìase dispozitivo</string>
-  <string name="ChatYourSelfDescription4">Dòpara ła reserca par catar fora robe in presa </string>
+  <string name="ChatYourSelfDescription4">Dòpara ła reserca par catar fora łe robe pì in presa</string>
   <string name="CallEmojiKeyTooltip">Se i dizenjeti so\'l schermo de %1$s i ze guałivi, \'sta ciamada ła ze segura a\'l 100%%.</string>
   <string name="VoipInCallBranding">Ciamada Telegram</string>
   <string name="EncryptionProcessing">Scanbio ciave de criptasion...</string>
@@ -749,7 +749,7 @@
   <string name="ChooseStickerSet">SERNISI SERIE DE FIGURETE</string>
   <string name="ActionPinnedGeoLive">un1 L ga picà insima na pozision in tenpo reałe</string>
   <string name="GroupMembers">Menbri</string>
-  <string name="ChatAdmin">★A★</string>
+  <string name="ChatAdmin">★</string>
   <string name="ReportChat">Senjała</string>
   <string name="ReportChatSpam">Scoase</string>
   <string name="ReportChatViolence">Viołensa</string>
@@ -841,7 +841,7 @@
   <string name="NotificationsOn">Ativàe</string>
   <string name="GroupsInCommon">Grupi in comun</string>
   <string name="StartEncryptedChat">Taca chat segreta</string>
-  <string name="BanFromTheGroup">BANA DA\'L GRUPO</string>
+  <string name="BanFromTheGroup">CAVA VIA DA\'L GRUPO</string>
   <string name="ShareContact">Sparpanja</string>
   <string name="BlockContact">Bloca</string>
   <string name="EditContact">Modìfega</string>
@@ -1203,8 +1203,8 @@ Itim A te podarè senpre tornar indrìo a\'l tema predefenìo de Telegram.</stri
   <string name="Username">Nome utente</string>
   <string name="UserBioEmpty">Njancora scrivesta</string>
   <string name="UserBio">Biografìa</string>
-  <string name="OutgoingCalls">Ciamade in sortìa</string>
-  <string name="IncomingCalls">Ciamade in entrada</string>
+  <string name="OutgoingCalls">Ciamade fazeste</string>
+  <string name="IncomingCalls">Ciamade ciapàe</string>
   <string name="CallsTotalTime">Tenpo totałe</string>
   <string name="MessagesDataUsage">Dati de i mesaji e altro</string>
   <string name="BytesSent">Byte mandài</string>
@@ -1396,7 +1396,7 @@ Itim A te podarè senpre tornar indrìo a\'l tema predefenìo de Telegram.</stri
   <string name="PaymentNoShippingMethod">Ne despiaze, A no ze mìa posìbiłe consenjar roba a\'l to ndariso.</string>
   <string name="ShareYouLocationUnableManually">Sernisi manualmente</string>
   <string name="Points">%1$d</string>
-  <string name="Points_one">%1$d punti</string>
+  <string name="Points_one">%1$d punto</string>
   <string name="Points_two">%1$d punti</string>
   <string name="Points_few">%1$d punti</string>
   <string name="Points_many">%1$d punti</string>
@@ -1404,7 +1404,7 @@ Itim A te podarè senpre tornar indrìo a\'l tema predefenìo de Telegram.</stri
   <string name="Points_zero">%1$d punti</string>
   <string name="ShareYouLocationUnable">L\'app no ła ze mìa sta bona de detarminar ła to pozision</string>
   <string name="PaymentFailed">Ne despiaze, el pagamento el ze sta refudà.</string>
-  <string name="VoipIncoming">Ciamada in entrada</string>
+  <string name="VoipIncoming">Ciamada da ciapar</string>
   <string name="ClearRecentEmoji">Vutu netar łe emoji resenti?</string>
   <string name="NoCallLog">A no te ghè fazesto njancora njauna ciamada.</string>
   <string name="Reply">Respondi</string>
