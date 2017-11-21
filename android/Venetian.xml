@@ -270,7 +270,7 @@
   <string name="MessageLifetimeRemoved">%1$s L ga dezativà el contador de autodestrusion</string>
   <string name="MessageLifetimeYouRemoved">A te ghe dezativà el contador de autodestrusion</string>
   <string name="ChatLocation">Pozision</string>
-  <string name="SendLocation">Manda ła to pozision</string>
+  <string name="SendLocation">Manda ła me pozision</string>
   <string name="Loading">Cargando...</string>
   <string name="NearbyPlaces">O SERNISI UN POSTO</string>
   <string name="NoResult">Njaun rezultà</string>

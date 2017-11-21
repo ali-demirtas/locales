@@ -363,6 +363,9 @@ Smazat a zastavit</string>
   <string name="Edit">Upravit</string>
   <string name="TimeToEditExpired">Je nám líto, čas na úpravu vypršel.</string>
   <string name="IncorrectTheme">Nesprávný soubor motivu</string>
+  <string name="SendingPhoto">odeslání obrázku...</string>
+  <string name="SendingVideoStatus">odeslání videa...</string>
+  <string name="SendingFile">odeslání souboru...</string>
   <string name="CompatibilityChat">%1$s používá starší verzi Telegramu, takže soukromé fotky se zobrazi v režimu kompatibility.\n\nKdyž si %2$s aktualizuje Telegram, fotky s časovačem nastaveným na 1 minutu nebo méně, začnou fungovat v módu \"Stlačte a držte pro zobrazení\" a Vy budete informováni kdykoliv, když druhá strana udělá obrázek obrazovky.</string>
   <string name="SendingAudio">odesílání audia...</string>
   <string name="NotificationContactNewPhoto">%1$s má novou profilovou fotku</string>
