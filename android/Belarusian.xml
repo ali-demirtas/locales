@@ -402,19 +402,12 @@
   <string name="NoMessages">Пакуль тут няма паведамленняў...</string>
   <string name="EncryptedPlaceholderTitleIncoming">%s запрасіў вас далучыцца да сакрэтнай размовы.</string>
   <string name="SecretChat">Сакрэтныя размовы</string>
-  <string name="ChatYourSelf">размова з сабой</string>
-  <string name="ChatYourSelfTitle">Вашае воблачнае сховішча</string>
-  <string name="ChatYourSelfDescription1">Перадасылайце паведамленні сюды, каб захаваць іх</string>
-  <string name="ChatYourSelfDescription2">Захоўвайце файлы і медыя</string>
-  <string name="ChatYourSelfDescription3">Вы можаце адкрыць гэтую размову з любога ўстройства</string>
-  <string name="ChatYourSelfDescription4">Карыстайце пошук, каб хутка нешта знайсці</string>
   <string name="CallEmojiKeyTooltip">Калі эмодзі на экране %1$s такія жа, то выклік абаронены на 100%%.</string>
   <string name="VoipInCallBranding">Выклік праз Тэлеграм</string>
   <string name="EncryptionProcessing">Абмен ключамі шыфравання...</string>
   <string name="Connecting">Злучэнне...</string>
   <string name="VoipRinging">Ідзе дазвон</string>
   <string name="CallAgain">Паўтарыць выклік</string>
-  <string name="ChatYourSelfName">Вы</string>
   <string name="MessageLifetimeVideo">Калі вы прызначыце таймер, то відэазапіс знішчыцца праз гэты час пасля таго, як атрымальнік яго праглядзіць.</string>
   <string name="DeleteForUser">Выдаліць для %1$s</string>
   <string name="VoipExchangingKeys">Абмен ключамі шыфравання</string>
@@ -427,6 +420,12 @@
   <string name="CallNotAvailable">Выбачайце, але **%1$s** не прымае выклікі.</string>
   <string name="EncryptionKeyDescription">Гэтыя выява і тэкст рэпрэзэнтуюць ключ шыфравання для сакрэтнай размовы з **%1$s**.\n\nКалі яны выглядаюць гэтак жа на ўстройстве **%2$s**, то мы гарантуем вам шыфраванне з-канца-ў-канец.\n\nДазнайцеся больш на telegram.org</string>
   <string name="VoipPeerOutdated">Праграма гэтага карыстальніка (**%1$s**) не падтрымлівае функцыю выклікаў. Яму або ёй трэба абнавіць сваю праграму, каб мець магчымасць прымаць выклікі.</string>
+  <string name="ChatYourSelfTitle">Вашае воблачнае сховішча</string>
+  <string name="ChatYourSelfDescription1">Перадасылайце паведамленні сюды, каб захаваць іх</string>
+  <string name="ChatYourSelfDescription2">Захоўвайце файлы і медыя</string>
+  <string name="ChatYourSelfDescription3">Вы можаце адкрыць гэтую размову з любога ўстройства</string>
+  <string name="ChatYourSelfDescription4">Карыстайце пошук, каб хутка нешта знайсці</string>
+  <string name="ChatYourSelfName">Вы</string>
   <string name="CompatibilityChat">%1$s выкарыстоўвае састарэлую версію Тэлеграма, таму патаемныя фотаздымкі будуць адлюстроўвацца ў рэжыме сумяшчальнасці.
 
 Пасля таго, як %2$s абновіць Тэлеграм, фотаздымкі з хвілінным або менш таймерам пачнуць працаваць у рэжыме \'Націсніце і ўтрымлівайце для прагляду\'. Таксама Вы будзеце апавешчаны ўсялякі раз, калі суразмоўца робіць скрыншот.</string>

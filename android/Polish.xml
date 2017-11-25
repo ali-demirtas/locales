@@ -436,19 +436,12 @@ związane z Telegramem?</string>
   <string name="NoMessages">Tu jeszcze nie ma wiadomości…</string>
   <string name="EncryptedPlaceholderTitleIncoming">%s zaprasza cię do szyfrowanego czatu.</string>
   <string name="SecretChat">Szyfrowane czaty</string>
-  <string name="ChatYourSelf">czat z samym sobą</string>
-  <string name="ChatYourSelfTitle">Twój dysk w chmurze</string>
-  <string name="ChatYourSelfDescription1">Przekazuj wiadomości tutaj, aby je zapisać</string>
-  <string name="ChatYourSelfDescription2">Wysyłaj multimedia i pliki, aby je przechowywać</string>
-  <string name="ChatYourSelfDescription3">Miej dostęp do tego czatu z dowolnego urządzenia</string>
-  <string name="ChatYourSelfDescription4">Używaj wyszukiwania, aby szybko znaleźć treści</string>
   <string name="CallEmojiKeyTooltip">Jeśli te emotikony są takie same na ekranie użytkownika %1$s, połączenie to jest w 100%% bezpieczne.</string>
   <string name="VoipInCallBranding">Połączenie Telegramu</string>
   <string name="EncryptionProcessing">Wymiana kluczy szyfrujących…</string>
   <string name="Connecting">Łączenie…</string>
   <string name="VoipRinging">Dzwonię</string>
   <string name="CallAgain">Połącz ponownie</string>
-  <string name="ChatYourSelfName">Ty</string>
   <string name="MessageLifetimeVideo">Jeśli ustawisz zegar, wideo zostanie automatycznie zniszczone po jego obejrzeniu.</string>
   <string name="DeleteForUser">Usuń też u %1$s</string>
   <string name="VoipExchangingKeys">Wymiana kluczy szyfrujących</string>
@@ -465,6 +458,12 @@ Jeśli wyglądają tak samo na urządzeniu **%2$s**, szyfrowanie jest zapewnione
 
 Dowiedz się więcej na stronie telegram.org</string>
   <string name="VoipPeerOutdated">Użytkownik **%1$s** korzysta z aplikacji nieobsługującej rozmów. Aby móc nawiązywać rozmowy, należy zaktualizować tę aplikację.</string>
+  <string name="ChatYourSelfTitle">Twój dysk w chmurze</string>
+  <string name="ChatYourSelfDescription1">Przekazuj wiadomości tutaj, aby je zapisać</string>
+  <string name="ChatYourSelfDescription2">Wysyłaj multimedia i pliki, aby je przechowywać</string>
+  <string name="ChatYourSelfDescription3">Miej dostęp do tego czatu z dowolnego urządzenia</string>
+  <string name="ChatYourSelfDescription4">Używaj wyszukiwania, aby szybko znaleźć treści</string>
+  <string name="ChatYourSelfName">Ty</string>
   <string name="CompatibilityChat">Użytkownik %1$s używa starszej wersji Telegramu, zatem tajne zdjęcia będą wyświetlane w trybie zgodności.
 
 Gdy użytkownik %2$s zaktualizuje Telegram, zdjęcia z czasem wyświetlania poniżej jednej minuty będą wyświetlane w trybie „Dotknij i przytrzymaj, by wyświetlić” i otrzymasz powiadomienie, gdy ktoś wykona zrzut ekranu.</string>

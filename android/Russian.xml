@@ -404,19 +404,12 @@
   <string name="NoMessages">Нет истории сообщений</string>
   <string name="EncryptedPlaceholderTitleIncoming">%s пригласил вас в секретный чат.</string>
   <string name="SecretChat">Секретные чаты</string>
-  <string name="ChatYourSelf">чат с самим собой</string>
-  <string name="ChatYourSelfTitle">Ваше облачное хранилище</string>
-  <string name="ChatYourSelfDescription1">Пересылайте сюда сообщения, чтобы сохранить их</string>
-  <string name="ChatYourSelfDescription2">Отправляйте сюда любые файлы на хранение</string>
-  <string name="ChatYourSelfDescription3">Доступ к этому чату открыт для любого устройства</string>
-  <string name="ChatYourSelfDescription4">Используйте поиск, чтобы быстро что-то найти</string>
   <string name="CallEmojiKeyTooltip">Если у %1$s отображаются точно такие же смайлы, то этот звонок на 100%% безопасен.</string>
   <string name="VoipInCallBranding">Аудиовызов в Telegram</string>
   <string name="EncryptionProcessing">Обмен ключами шифрования...</string>
   <string name="Connecting">Подключение...</string>
   <string name="VoipRinging">Вызов</string>
   <string name="CallAgain">Позвонить ещё раз</string>
-  <string name="ChatYourSelfName">Вы</string>
   <string name="MessageLifetimeVideo">Если вы установите таймер, видео самоуничтожится после того, как будет просмотрено.</string>
   <string name="DeleteForUser">Удалить у %1$s</string>
   <string name="VoipExchangingKeys">Обмен ключами шифрования</string>
@@ -430,6 +423,12 @@
   <string name="EncryptionKeyDescription">Это изображение и текст были созданы на основе ключа шифрования этого секретного чата с **%1$s**.\n\nЕсли они выглядят так же, как на устройстве **%2$s**, оконечное шифрование надежно.\n
 nУзнать больше на telegram.org</string>
   <string name="VoipPeerOutdated">К сожалению, приложение у **%1$s** не поддерживает звонки. Этому пользователю нужно обновить приложение, чтобы вы смогли ему позвонить.</string>
+  <string name="ChatYourSelfTitle">Ваше облачное хранилище</string>
+  <string name="ChatYourSelfDescription1">Пересылайте сюда сообщения, чтобы сохранить их</string>
+  <string name="ChatYourSelfDescription2">Отправляйте сюда любые файлы на хранение</string>
+  <string name="ChatYourSelfDescription3">Доступ к этому чату открыт для любого устройства</string>
+  <string name="ChatYourSelfDescription4">Используйте поиск, чтобы быстро что-то найти</string>
+  <string name="ChatYourSelfName">Вы</string>
   <string name="CompatibilityChat">%1$s использует устаревшую версию Telegram, поэтому секретные фотографии будут отображаться в режиме совместимости.\n\nПосле того, как %2$s обновит Telegram, фотографии с минутным или менее таймером самоуничтожения начнут работать в режиме «Нажмите и удерживайте для просмотра». Кроме того, вы получите уведомление, если ваш собеседник сделает снимок экрана.</string>
   <string name="VoipPeerIncompatible">**%1$s** использует приложение с несовместимой версией протокола. Этому пользователю нужно обновить приложение, чтобы вы могли созвониться.</string>
   <string name="SendingAudio">отправляет аудио...</string>

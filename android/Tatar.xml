@@ -354,25 +354,24 @@
   <string name="NoMessages">Хатлар тарихы юк...</string>
   <string name="EncryptedPlaceholderTitleIncoming">%s сезне яшерен чатка чакыра.</string>
   <string name="SecretChat">Яшерен чатлар</string>
-  <string name="ChatYourSelf">үзең белән чат</string>
-  <string name="ChatYourSelfTitle">Болытлы саклау урыныгыз</string>
-  <string name="ChatYourSelfDescription1">Саклар өчен хатларны монда җибәрә аласыз</string>
-  <string name="ChatYourSelfDescription2">Саклау өчен файлларны монда җибәрә аласыз</string>
-  <string name="ChatYourSelfDescription3">Бу чат бөтен җайланмалар өчен ачык</string>
-  <string name="ChatYourSelfDescription4">Табу өчен эзләүне кулланыгыз</string>
   <string name="CallEmojiKeyTooltip">Әгәр %1$s кулланучысында шундый ук смайликлар күрсәтелсә, шалтырату 100%%ка якланган.</string>
   <string name="VoipInCallBranding">Чакыру</string>
   <string name="EncryptionProcessing">Шифрлау ачкычлары белән алмашу...</string>
   <string name="Connecting">Тоташу...</string>
   <string name="VoipRinging">Чакыру</string>
   <string name="CallAgain">Яңадан шалтырату</string>
-  <string name="ChatYourSelfName">Сез</string>
   <string name="MessageLifetimeVideo">Әгәр сез таймер куйсагыз, видео каралгач бетәчәк.</string>
   <string name="DeleteForUser">Моннан %1$s бетерү</string>
   <string name="VoipExchangingKeys">Шифрлау ачкычлары белән алмашу</string>
   <string name="Edit">Үзгәртү</string>
   <string name="TimeToEditExpired">Гафу итегез, үзгәртү вакыты чыкты.</string>
   <string name="IncorrectTheme">Дөрес булмаган тема файлы</string>
+  <string name="ChatYourSelfTitle">Болытлы саклау урыныгыз</string>
+  <string name="ChatYourSelfDescription1">Саклар өчен хатларны монда җибәрә аласыз</string>
+  <string name="ChatYourSelfDescription2">Саклау өчен файлларны монда җибәрә аласыз</string>
+  <string name="ChatYourSelfDescription3">Бу чат бөтен җайланмалар өчен ачык</string>
+  <string name="ChatYourSelfDescription4">Табу өчен эзләүне кулланыгыз</string>
+  <string name="ChatYourSelfName">Сез</string>
   <string name="CompatibilityChat">%1$s Telegramның иске юрамасын куллана, шуның өчен яшерен фотосурәтләр туры китерү режимында күрсәтеләчәкләр.
 
 %2$s Telegramны яңарткач, фотосурәтләр минутлы яисә азрак вакыт белән \'Карар өчен басыгыз һәм көтеп торыгыз\' режимында эшли башлаячаклар, шулай ук сезгә әңгәмәдәшегез экран скриншоты ясаганда һәрвакыт белгертү киләчәк.</string>

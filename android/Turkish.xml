@@ -342,24 +342,23 @@ sorunuz mu var?</string>
   <string name="NoMessages">Henüz mesaj gönderilmemiş...</string>
   <string name="EncryptedPlaceholderTitleIncoming">%s sizi gizli sohbete davet etti.</string>
   <string name="SecretChat">Gizli sohbetler</string>
-  <string name="ChatYourSelf">kendinizle sohbetiniz</string>
-  <string name="ChatYourSelfTitle">Bulut depolamanız</string>
-  <string name="ChatYourSelfDescription1">Mesajları kaydetmek için buraya iletin</string>
-  <string name="ChatYourSelfDescription2">Kaydetmek için medya ve dosyaları gönder</string>
-  <string name="ChatYourSelfDescription3">Herhangi bir cihazdan bu sohbete eriş</string>
-  <string name="ChatYourSelfDescription4">Çabucak bulmak için aramayı kullanın</string>
   <string name="VoipInCallBranding">Telegram Araması</string>
   <string name="EncryptionProcessing">Şifreleme anahtarı değiştiriliyor...</string>
   <string name="Connecting">Bağlanılıyor...</string>
   <string name="VoipRinging">Çalıyor</string>
   <string name="CallAgain">Tekrar Ara</string>
-  <string name="ChatYourSelfName">Sen</string>
   <string name="MessageLifetimeVideo">Eğer bir zamanlayıcı ayarlarsanız, video görüntülendikten sonra kendiliğinden kaybolacak.</string>
   <string name="DeleteForUser">%1$s için Sil</string>
   <string name="VoipExchangingKeys">Şifreleme anahtarı değiştiriliyor</string>
   <string name="Edit">Düzenle</string>
   <string name="TimeToEditExpired">Üzgünüz, düzenleme süresi doldu.</string>
   <string name="IncorrectTheme">Geçersiz tema dosyası</string>
+  <string name="ChatYourSelfTitle">Bulut depolamanız</string>
+  <string name="ChatYourSelfDescription1">Mesajları kaydetmek için buraya iletin</string>
+  <string name="ChatYourSelfDescription2">Kaydetmek için medya ve dosyaları gönder</string>
+  <string name="ChatYourSelfDescription3">Herhangi bir cihazdan bu sohbete eriş</string>
+  <string name="ChatYourSelfDescription4">Çabucak bulmak için aramayı kullanın</string>
+  <string name="ChatYourSelfName">Sen</string>
   <string name="CompatibilityChat">%1$s Telegram\'ın eski bir sürümünü kullanıyor, bu nedenle gizli fotoğraflar uyumluluk modunda gösterilecek.
 
 %2$s Telegram\'ı güncellediğinde 1 dakika veya daha az süreli zamanlanmış fotoğraflar görüntülenmeye \"Görüntülemek için basılı tutun\" modunda başlanacak ve karşınızdaki kişi ekran görüntüsü aldığında bilgilendirileceksiniz.</string>
